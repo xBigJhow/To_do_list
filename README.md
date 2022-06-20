@@ -3,7 +3,7 @@
 
 ### With few lines of coding, You have the possibilities of:
 
-- add new assignaments and reset them; 
+- add new assignments and reset them; 
 
 
 ![layout](https://github.com/xBigJhow/To_do_list/blob/main/images/Layout.png)
